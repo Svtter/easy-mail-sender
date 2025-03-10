@@ -1,7 +1,7 @@
 [project]
-name = "easy-mail-sender"
+name = "quick-postman"
 dynamic = ["version"]
-description = "A quick mail sender"
+description = "A quick mail sender, postman"
 authors = [
     {name = "svtter", email = "svtter@qq.com"},
 ]
@@ -21,7 +21,7 @@ distribution = true
 
 [tool.pdm.version]
 source = "file"
-path = "src/easy_mail_sender/__init__.py"
+path = "src/quick_postman/__init__.py"
 
 [dependency-groups]
 dev = [

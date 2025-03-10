@@ -1,4 +1,4 @@
-from easy_mail_sender import MailInfo, MailWorker
+from quick_postman import MailInfo, MailWorker
 
 
 def test_mail():
