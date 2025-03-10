@@ -1,5 +1,5 @@
 [project]
-name = "mail-sender"
+name = "easy-mail-sender"
 dynamic = ["version"]
 description = "A quick mail sender"
 authors = [
