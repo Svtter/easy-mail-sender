@@ -1,4 +1,4 @@
-# Quick Poster
+# Quick Postman
 
 一个简单易用的邮件发送工具，基于Python实现。
 
