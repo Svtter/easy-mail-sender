@@ -21,7 +21,8 @@ distribution = true
 
 [tool.pdm.version]
 source = "file"
-path = "src/mail_sender/__init__.py"
+path = "src/easy_mail_sender/__init__.py"
+
 [dependency-groups]
 dev = [
     "pytest>=8.3.5",
